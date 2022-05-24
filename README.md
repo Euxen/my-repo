@@ -1,2 +1,3 @@
 # my-repo
-Este repositorio es para la clase de IDS328 virtual.
+Nombre: Jun Huo He Zhang
+Matricula: 1088620
